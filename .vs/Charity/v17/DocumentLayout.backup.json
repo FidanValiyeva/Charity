@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Charity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|c:\\users\\asus\\desktop\\charity\\charity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|solutionrelative:charity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|c:\\users\\asus\\desktop\\charity\\charity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|solutionrelative:charity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|c:\\users\\asus\\desktop\\charity\\charity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|solutionrelative:charity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|c:\\users\\asus\\desktop\\charity\\charity\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|solutionrelative:charity\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|c:\\users\\asus\\desktop\\charity\\charity\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|solutionrelative:charity\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|c:\\users\\asus\\desktop\\charity\\charity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|solutionrelative:charity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|c:\\users\\asus\\desktop\\charity\\charity\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|solutionrelative:charity\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|c:\\users\\asus\\desktop\\charity\\charity\\charity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B40614C-4841-4DB6-9DBE-4A6448C5B2BE}|Charity\\Charity.csproj|solutionrelative:charity\\charity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Program.cs",
+              "RelativeDocumentMoniker": "Charity\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Program.cs",
+              "RelativeToolTip": "Charity\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:02:59.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Charity\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Charity\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T14:44:46.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Charity\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Charity\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:44:33.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Charity\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Charity\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T14:43:57.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Charity.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Charity.csproj",
+              "RelativeDocumentMoniker": "Charity\\Charity.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Charity.csproj*",
+              "RelativeToolTip": "Charity\\Charity.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T14:42:21.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Charity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Charity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T14:22:59.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Charity\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Charity\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T14:17:43.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Charity\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Charity\\Charity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Charity\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:17:06.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
